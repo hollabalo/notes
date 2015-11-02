@@ -1,0 +1,11 @@
+Notes Application
+Written in Node.js
+
+A simple but complete notepad-like web application. This utilizes a custom application handler similar to Express framework.
+
+Node.js module dependencies:
+- MongoJS
+- Redis
+- Crypto
+
+(c) John Michael Gerona
